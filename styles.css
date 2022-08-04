@@ -1,12 +1,12 @@
+.site-header .header-logo {
+    display: flex;
+    flex-direction: row;
+}
+
 .site-header {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
     background: blue;
     gap: 8px;
-}
-
-.site-header .header-logo {
-    display: flex;
-    flex-direction: row;
 }
