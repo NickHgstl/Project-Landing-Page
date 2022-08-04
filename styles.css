@@ -1,12 +1,13 @@
 .header-logo {
     display: flex;
     flex-direction: row;
+    margin-top: 5px;
 }
 
 .header-site {
     display: flex;
     flex-direction: row-reverse;
     align-items: right;
-    background: blue;
     gap: 8px;
+    margin-top: 5px;
 }
