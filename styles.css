@@ -1,6 +1,7 @@
 .site-header .header-logo {
     display: flex;
     flex-direction: row;
+    align-items: left;
 }
 
 .site-header {
