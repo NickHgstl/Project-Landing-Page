@@ -6,7 +6,7 @@
 .site-header {
     display: flex;
     flex-direction: row-reverse;
-    align-items: center;
+    align-items: right;
     background: blue;
     gap: 8px;
 }
