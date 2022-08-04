@@ -2,4 +2,5 @@
     display: flex;
     justify-content: row-reverse;
     align-items: center;
-}
+    background: blue;
+    gap: 8px;
