@@ -1,9 +1,9 @@
-.header-logo {
+.header.logo {
     display: flex;
     flex-direction: row;
 }
 
-.site-header {
+.header.site {
     display: flex;
     flex-direction: row-reverse;
     align-items: right;
